@@ -1,0 +1,75 @@
+.Header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color:#E8593B ;
+}
+
+.Titulo{
+ margin-left: auto;
+ margin-right: auto;
+ display: flex;
+ flex-wrap: wrap;
+ align-items: center;
+ justify-content: center;
+ flex-direction: column;
+ line-height: 2px;
+}
+
+.ImgLogin{
+    height: 75px;
+    width: 75px;
+}
+.ImgLogo{
+    height: 200px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.Login{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: 50px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.BotonInicioSeccion{
+    border-radius: 5px;
+    color: #E8593B;
+    background-color: black;
+    margin-top: 5px;
+}
+
+.InicioSeccion{
+    border-radius: 5px;
+    color: #E8593B;
+    background-color: black;
+    margin-top: 5px;
+}
+
+.Registrarse{
+    width: 100px;
+    border-radius: 5px;
+    color: #E8593B;
+    background-color: black;
+    margin-top: 5px;
+}
+
+.ImgLogo{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+.Logo{
+    margin-left: auto;
+    margin-right: auto;
+}
