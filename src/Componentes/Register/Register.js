@@ -17,6 +17,7 @@ function Register({children, estado, cambiarEstado}){
           }
         </div>
       );
+      
 }
 
 export default Register;
